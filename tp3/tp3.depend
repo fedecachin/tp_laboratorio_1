@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1565993298 source:c:\users\pfede\desktop\programas\tp3\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1565993298 c:\users\pfede\desktop\programas\tp3\linkedlist.h
+
+1565993298 c:\users\pfede\desktop\programas\tp3\employee.h
+
+1565993298 source:c:\users\pfede\desktop\programas\tp3\employee.c
+
+1624285909 source:c:\users\pfede\desktop\programas\tp3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1565993298 c:\users\pfede\desktop\programas\tp3\controller.h
+
+1565993298 source:c:\users\pfede\desktop\programas\tp3\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
